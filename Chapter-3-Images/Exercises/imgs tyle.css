@@ -1,0 +1,6 @@
+.image {
+    filter: sepia(20%) 
+    contrast(90%)
+    brightness(110%);
+    margin-bottom: 20px;
+}

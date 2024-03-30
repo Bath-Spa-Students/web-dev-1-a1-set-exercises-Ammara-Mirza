@@ -1,0 +1,24 @@
+ .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+ }
+
+ div {
+    font-family: sans-sherif;
+    font-size: 40px;
+    margin: 10px;
+    border: 2px solid black;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+ }
+
+ #A{background-color : palevioletred;}
+
+ #B{background-color: blueviolet;}
+ 
+ #C{background-color: lightblue;}
+
+ #D{background-color: lightgreen;}
