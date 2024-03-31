@@ -1,0 +1,53 @@
+*{
+    margin: auto;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+header{
+    background-color: lightslategray;
+    color: black;
+    padding: 30px;
+    text-align: center;
+}
+
+nav{
+    background-color: rgb(135, 102, 166);
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+nav ul li{
+    display: inline;
+    margin-right:30Px; ;
+}
+
+nav ul li a {
+    color:rgb(135, 102, 166);
+}
+
+main{
+    display: flex;
+    justify-content: space-around;
+    padding:10px;
+}
+
+section{
+    flex:1;
+    padding: 10px;
+}
+
+footer{
+    background-color: violet;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
